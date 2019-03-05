@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Agent-Class: com.binaryfountain.devtools.SQLBeanInstrumentationAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: com.binaryfountain.devtools.SQLBeanInstrumentationAgent
